@@ -6,10 +6,10 @@ Software Development / Consultancy / Training
 
 Experienced with back and frontend web projects. Various programming languages and agile techniques. Have much experience of international work, Spain, France, USA.
 
-* 🌍  Farnham, Surrey, UK
-* 🖥️  Web [jawford.com](http://jawford.com)
-* 🧠  Learning interesting ML tools & techniques
-* 🤝  ...open to collaborations for training & extending models
+🌍  Farnham, Surrey, UK
+🖥️  Web [jawford.com](http://jawford.com)
+🧠  Learning interesting ML tools & techniques
+🤝  ...open to collaborations for training & extending models
 
 ### Skills
 
